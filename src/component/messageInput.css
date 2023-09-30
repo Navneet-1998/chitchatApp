@@ -1,0 +1,14 @@
+button {
+    position: relative;
+    left: -4%;
+    opacity: 0.3;
+    top: -5px
+}
+
+.bg-color-check {
+    background-color: rgba(rgba(255, 255, 255, 0.586), .55);
+}
+
+#bind {
+    border: 3px solid rgba(0, 0, 0, 0.300);
+}

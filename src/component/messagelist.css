@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(237, 241, 245, 255);
+}
+
+.carding {
+    background-color: rgba(237, 241, 245, 255)
+}
+
+.carding#liked {
+    visibility: hidden;
+}
+
+.carding:hover#linked {
+    visibility: visible;
+}
+
+#edit {
+    width: fit-content;
+}

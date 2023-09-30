@@ -1,0 +1,12 @@
+.opacities {
+    opacity: 0.5;
+}
+
+.line {
+    border-bottom: 4px solid rgba(0, 0, 0, 0.100);
+    width: 95%;
+}
+
+body {
+    background-color: rgba(237, 241, 245, 255);
+}
